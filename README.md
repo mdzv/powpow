@@ -11,7 +11,7 @@ You can download the `powpow.ps1` file, copy and paste the code into your own fi
 Save the file in your folder or directory, whatever you want. Then open your IDE, move into your directory with `cd` and run the `.\powpow.ps1` commmand in the terminal.
 
 ## Demo
-<img width="467" height="556" alt="demo" src="https://github.com/user-attachments/assets/44d08f5e-c550-40de-91e3-2f68ee27b37b" />
+<img width="734" height="582" alt="Screenshot 2025-08-22 142354" src="https://github.com/user-attachments/assets/d40bd4f1-e8b9-4222-b594-b38fe76b4f1f" />
 
 ## Contribution
 Contribution is always appreciated!
